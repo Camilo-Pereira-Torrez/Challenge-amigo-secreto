@@ -23,9 +23,11 @@ Este proyecto es una aplicación web simple para organizar un sorteo de **Amigo 
 3. Repite para todos los participantes.
 4. Haz clic en "Sortear amigo" para seleccionar aleatoriamente un amigo secreto.
 
-[<video src="/how-it-works-demo.mp4" controls width="100%">
-  Tu navegador no soporta la etiqueta de video.
-</video>](https://github.com/user-attachments/assets/4bff9caa-dcd7-4856-b7e9-4f36f28296b7)
+   
+
+https://github.com/user-attachments/assets/67a08129-0e28-4ab5-ab80-bdfa25687d16
+
+
 
 ## Explicación a detalle de las Funciones Principales
 
